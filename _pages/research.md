@@ -75,7 +75,7 @@ Renewable energy investment is a vital step in the fight against climate change.
 <p>
 
 Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives
- (with Jon Pevehouse and Ed Mansfield) <a href= "https://cobrienudry.github.io/files/greening_aid_Oct24.pdf">link</a>
+ (with Jon Pevehouse and Ed Mansfield) <a href= "https://cobrienudry.github.io/files/Decarbonization and deindustrialization_COU2.docx">link</a>
  <details>
   <summary><i>Abstract</i></summary>
 The twin threats to global economic stability of Russia’s invasion of Ukraine and President Donald Trump’s anti-green policies are likely to slow the renewable energy transition in rich, industrialized countries. Europe’s desire for energy security and rearmament in the face of Russian aggression and wavering support from the United States has redirected the attention of the traditionally environmentally inclined European parties away from energy and towards more pressing, existential concerns. The U.S. remains one of the largest carbon producers globally and the Trump Administration’s cuts to environmental protections and green energy credits are likely to stymie domestic efforts to reduce emissions. While the advanced economies have largely abandoned efforts to lead a global transition to green energy, the international instability that they currently face may accelerate renewable adoption in the Global South. Contrary to traditional theories of global change in international relations, a combination of existing policies—particularly China’s investment in renewable technologies—and pressure from trade competition is likely to enhance the green energy transition in developing countries. 
