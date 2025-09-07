@@ -64,11 +64,11 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
   
 <h2 style="font-size:22px; ">Under review </h2>
   
-Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/greening_aid_Oct24.pdf">link</a>) 
+The politics of the green energy transition in developing countries (<a href= "https://cobrienudry.github.io/files/greening_aid_Aug25.pdf">link</a>) 
 <details>
   <summary><i>Abstract</i></summary>
 
-Renewable energy investment is a vital step in the fight against climate change. De- veloping countries rely on external funding, often in the form of foreign aid, to support the growing green energy infrastructure. The role of international actors in funding the green energy transition poses particular challenges for domestic politics in developing countries. I argue that the links between international funding and renewable energy change the politics of the distributional effects of the energy transition. I use a spatial difference-in-differences design to test the theory in the case of the World Bank’s with- drawal of support for a coal plant in Kosovo. Aid withdrawal altered voting patterns for parties with close ties to the international community: coal-producing areas voted disproportionately against this party while places with potential for investment in re- newables voted for it. The distributional effects of the green energy transition may determine long-term international influence as their domestic allies bear the costs (and benefits). The centrality of international funding for energy in developing nations adds nuance to our understanding of global climate politics.
+As the global harms of climate change continue to grow, efforts to mitigate the causes of global warming by transitioning from fossil fuels to renewable energy sources have proved politically challenging at best. In rich, developed countries, scholars have found strong backlash against politicians’ decarbonization efforts from communities most tied to fossil fuel use. Yet, much less is known about how the energy transition affects politics in the Global South, where 95% of emissions growth is concentrated. What are the political effects of the green energy transition in developing countries? I argue that a central political aspect of decarbonization in the Global South is the funding for green energy provided by international actors, which generates backlash against the international community’s domestic allies. As international donors increasingly support renewable energy projects in developing countries—where such projects rely heavily on external funding—domestic opponents of the green energy transition mobilize against both the renewable initiatives and the international funders behind them. Leveraging the withdrawal of World Bank funding for coal in Kosovo, I use a spatial difference-in-differences design to estimate the effect of the internationally funded energy transition on voter support for political allies and adversaries of the international community. I find that coal communities punish parties allied with the international community – and reward pro-coal parties – when international funding for coal is withdrawn. Extensions with cross-national data show similar patterns across the developing world. The results have implications for international influence in climate politics in developing countries.
 </details>
 
 <p>
@@ -108,14 +108,26 @@ Donors use foreign aid to promote liberal values such as democracy and multicul-
 <p>
 <p>
 
+
+
+The political geography of the international energy transition in the Global South (<a href= "https://cobrienudry.github.io/files/pol_geo_Sep25.pdf">draft</a>)
+<details>
+  <summary><i>Abstract</i></summary>
+What proportion of existing fossil fuel infrastructure in the Global South can be explained by political targeting compared to geographic endowments? How does this fossil fuel targeting affect countries’ ability or willingness to transition to renewable energy sources? Canonically, natural resources for energy generation are geographically determined--but renewable energy sources are more flexible in their potential locations. I examine the political determinants of energy generation projects before and during the international community’s green energy investment push. Using geolocated Chinese and World Bank-sponsored energy projects over time and measures of political targeting, including leader birth regions, ethnicities, and traditional voting blocs, I map the political geography of the energy transition in sub-Saharan Africa. Initial results indicate that, in countries where fossil fuel is disproportionately politically targeted compared to other aid projects, renewable energy projects are also disproportionately likely to be politically allocated.  Results are significantly stronger for Chinese projects—suggesting that domestic leaders are directing this political targeting. International efforts to support the green energy transition likely entrench local elites and raise questions about the efficacy of Just Energy Transition Partnerships.
+
+</details>
+
+<p>
+<p>
+
 <h2 style="font-size:22px; "> In Progress </h2>
 <p>
 <p>
 
-Fishing for cooperation: how climate change affects international environmental regimes  (with <a href= "http://kellymatush.com/">Kelly Matush</a>)
+Phasing out coal-fired power in Indonesia  (with <a href= "https://sites.google.com/view/sam-rowan/home?authuser=0">Sam S. Rowan</a>)
 <details>
   <summary><i>Abstract</i></summary>
-Governing mobile assets is a key task for international cooperation. Environmental and economic treaties organize national engagement with agriculture, herding, and aquaculture. As global warming changes the habitability of areas for different species, how does international cooperation respond to current and expected changes in asset mobility? Do international treaties broaden to accommodate new actors and geographies? How do states that previously were not covered by existing treaties interact with the environmental regulation regime? Using data from fish populations, we map changes in fish migration and breeding onto international environmental treaties to understand how the regulatory landscape responds to instability sparked climate change.
+How do voters in developing countries view the green energy transition? Global efforts to stem emissions in the face of climate change increasingly focus on decommissioning legacy fossil fuel assets in the Global South. But this can heighten tensions between climate and development goals, since developing countries have growing energy demand. As such, these projects can open new cleavages between citizens in developing countries who prioritize different objectives. We leverage the unexpected announcement of the premature decommissioning of the Cirebon-1 coal plant in the weeks prior to the 2024 Indonesian national election to understand the effects of the energy transition on political support and attitudes. We use an interrupted survey design with geolocated data to test the countervailing pressures of economic development and environmental damage for citizens in the wake of the decommissioning announcement. We find that people situated near the plant become more opposed to the status quo candidate and less likely to support environmental policies. We then extend this to consider individuals sited near each Indonesian coal-fired power plant to examine how variation in local attitudes should inform the design of just transition packages that can accompany future decommissioning projects.
 
   </details>
 
@@ -123,12 +135,13 @@ Governing mobile assets is a key task for international cooperation. Environment
 <p>
 <p>
   
-The personal and the personnel: how relationships between domestic and international bureaucratic shape foreign aid (with <a href= "http://lindsayrdolan.com/">Lindsay Dolan</a>)
+Superstar Bureaucrats from the Global South(with <a href= "http://lindsayrdolan.com/">Lindsay Dolan</a>)
 <details>
   <summary><i>Abstract</i></summary>
 The personal and the personnel: how relationships between domestic and international bureaucratic shape foreign aid
 
-International bureaucrats are mission-driven and cosmopolitan, representing the interests of their principals while implementing projects for international organizations. Yet, we know little about the counterparts of these individuals: the domestic bureaucrats in recipient countries partnering in the design and implementation of aid projects. Who are these actors? And how do the relationships between domestic and international bureaucrats affect aid? We collect novel data on proposed World Bank projects from the Bank’s Monthly Operational Summaries, including the name and position of domestic recipient government actors associated with the proposed projects. Mapping domestic bureaucrats across government offices over time, we test the association between prior experience with the World Bank and project outcomes.  We then analyze World Bank and domestic bureaucrat dyads to understand how working relationships between actors evolve across time, sector, and position. 
+A large and growing body of evidence suggests that individual bureaucrats who work for international financial institutions have an impact on their outcomes: high-quality bureaucrats produce high-quality results. Far less attention has been paid to the individual bureaucrats who represent client countries to these institutions. We use a novel source of data to identify the individuals that client countries designate as “contact points” to the World Bank. These bureaucrats, when associated with higher-quality projects early on, are associated with greater numbers of future projects and future projects of higher quality. We then show that client countries use “superstar” bureaucrats to strategically get more, and strategically targeted, projects. However, the success of these superstar bureaucrats also makes them targets for hiring by the World Bank and other international organizations. Using a new dataset of client country bureaucrat employment histories, we show that bureaucrats associated consistently with more successful projects are more likely to subsequently work for international actors. This, in turn, disrupts  recipient countries’ investments in bureaucratic quality. International organization brain drain undermines client countries’ ability to strategically target World Bank projects. 
+
 
 </details>
 
