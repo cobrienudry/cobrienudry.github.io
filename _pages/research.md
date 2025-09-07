@@ -64,7 +64,7 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
   
 <h2 style="font-size:22px; ">Under review </h2>
   
-The politics of the green energy transition in developing countries (<a href= "https://cobrienudry.github.io/files/greening_aid_Aug25.pdf">link</a>) 
+The politics of the green energy transition in developing countries (<a href= "https://cobrienudry.github.io/files/greening_aid_Aug25.pdf">draft</a>) 
 <details>
   <summary><i>Abstract</i></summary>
 
@@ -75,7 +75,7 @@ As the global harms of climate change continue to grow, efforts to mitigate the 
 <p>
 
 Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives
- (with Jon Pevehouse and Ed Mansfield) <a href= "https://cobrienudry.github.io/files/Decarbonization and deindustrialization_COU2.docx">link</a>
+ (with Jon Pevehouse and Ed Mansfield) (<a href= "https://cobrienudry.github.io/files/Decarbonization and deindustrialization_COU2.docx">draft</a>)
  <details>
   <summary><i>Abstract</i></summary>
 The twin threats to global economic stability of Russia’s invasion of Ukraine and President Donald Trump’s anti-green policies are likely to slow the renewable energy transition in rich, industrialized countries. Europe’s desire for energy security and rearmament in the face of Russian aggression and wavering support from the United States has redirected the attention of the traditionally environmentally inclined European parties away from energy and towards more pressing, existential concerns. The U.S. remains one of the largest carbon producers globally and the Trump Administration’s cuts to environmental protections and green energy credits are likely to stymie domestic efforts to reduce emissions. While the advanced economies have largely abandoned efforts to lead a global transition to green energy, the international instability that they currently face may accelerate renewable adoption in the Global South. Contrary to traditional theories of global change in international relations, a combination of existing policies—particularly China’s investment in renewable technologies—and pressure from trade competition is likely to enhance the green energy transition in developing countries. 
@@ -149,12 +149,14 @@ A large and growing body of evidence suggests that individual bureaucrats who wo
 <p>
 <h2 style="font-size:22px; "> Public Commentary </h2>
 
-"My Turn | How USAID funding cuts hurt Illinois" The News-Gazette. February 25, 2025. (<a href=https://www.news-gazette.com/opinion/guest-commentary/my-turn-how-usaid-funding-cuts-hurt-illinois/article_f6cc845c-f2f4-11ef-b9be-8fc09e427d47.html>link</a>)
+"My Turn | How USAID funding cuts hurt Illinois" The News-Gazette. February 25, 2025. (<a href="https://www.news-gazette.com/opinion/guest-commentary/my-turn-how-usaid-funding-cuts-hurt-illinois/article_f6cc845c-f2f4-11ef-b9be-8fc09e427d47.html">link</a>)
 
+<p>
+<p>
 
-
-"How will the end of federal funding to USAID impact institutions in Illinois?" The 21st Show. Illinois Public Media. February 18, 2025. (<a href=https://will.illinois.edu/21stshow/story/how-will-ending-federal-funding-to-usaid-impact-institutions-in-illinois>link</a>)
-
+"How will the end of federal funding to USAID impact institutions in Illinois?" The 21st Show. Illinois Public Media. February 18, 2025. (<a href="https://will.illinois.edu/21stshow/story/how-will-ending-federal-funding-to-usaid-impact-institutions-in-illinois">link</a>)
+<p>
+<p>
   
 <h2 style="font-size:22px; "> Other Work </h2>
 
