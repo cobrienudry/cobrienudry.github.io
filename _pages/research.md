@@ -22,20 +22,7 @@ Innovation and Interdependence: The Case of Gene-Editing Technology (with <a hre
 <details>
   <summary><i>Abstract</i></summary>
   
-  Technological breakthroughs often reshape patterns of international exchange and
-interdependence, posing unique challenges for governments. We argue that innovation
-reduces policy autonomy among national governments in two ways. First, lower barriers
-to entry create opportunities for forum-shopping by researchers,  rms, and other actors.
-This facilitates regulatory arbitrage as actors evade national rules by relocating to more
-permissive jurisdictions. Second, public unease about new technologies creates the
-potential for backlash against controversial applications. This backlash can spill across
-borders: accidents or misuse in one jurisdiction undermine support for research and
-commercial development elsewhere. Together, these processes can generate ine cient
-cycles of accelerated progress disrupted by damaging controversies. We test these
-mechanisms in the case of gene editing,  nding support for the theory in data on
-scienti c employment patterns and a survey experiment examining public backlash.
-Our results demonstrate that technological disruption increases interdependence and
-undermines states' ability to regulate in isolation.
+  Technological breakthroughs often reshape patterns of international exchange and interdependence, posing unique challenges for governments. We argue that innovation reduces policy autonomy among national governments in two ways. First, lower barriers to entry create opportunities for forum-shopping by researchers, firms, and other actors. This facilitates regulatory arbitrage as actors evade national rules by relocating to more permissive jurisdictions. Second, public unease about new technologies creates the potential for backlash against controversial applications. This backlash can spill across borders: accidents or misuse in one jurisdiction undermine support for research and commercial development elsewhere. Together, these processes can generate inefficient cycles of accelerated progress disrupted by damaging controversies. We test these mechanisms in the case of gene editing,  nding support for the theory in data on scientific employment patterns and a survey experiment examining public backlash. Our results demonstrate that technological disruption increases interdependence and undermines states' ability to regulate in isolation.
 </details>
 </li>
 
@@ -84,6 +71,17 @@ The twin threats to global economic stability of Russia’s invasion of Ukraine 
 <p>
 <p>
 
+
+Phasing out coal-fired power in Indonesia  (with <a href= "https://sites.google.com/view/sam-rowan/home?authuser=0">Sam S. Rowan</a>) (<a href= "https://cobrienudry.github.io/files/idn_coal_phaseout.pdf">draft</a>)
+<details>
+  <summary><i>Abstract</i></summary>
+How do voters in developing countries view the green energy transition? Global efforts to stem emissions in the face of climate change increasingly focus on decommissioning legacy fossil fuel assets in the Global South. But this can open new cleavages between citizens in developing countries who differ in their climate and development goals. We leverage the unexpected announcement of the premature decommissioning of the Cirebon-1 coal plant in the weeks prior to the 2024 Indonesian national election to understand the effects of the energy transition on political support and attitudes. We use an interrupted survey design with geolocated data to test the countervailing pressures of economic development and environmental damage for citizens in the wake of the decommissioning announcement. We find that people situated near the plant become more opposed to the status quo candidate and less likely to support environmental policies. We then extend this to consider individuals sited near each Indonesian coal-fired power plant to examine how variation in local attitudes should inform the design of just transition packages that can accompany future decommissioning projects.
+
+  </details>
+
+  <p>
+<p>
+
 <h2 style="font-size:22px; "> Working Papers</h2>
 <p>
 <p>
@@ -122,14 +120,6 @@ What proportion of existing fossil fuel infrastructure in the Global South can b
 
 <h2 style="font-size:22px; "> In Progress </h2>
 <p>
-<p>
-
-Phasing out coal-fired power in Indonesia  (with <a href= "https://sites.google.com/view/sam-rowan/home?authuser=0">Sam S. Rowan</a>)
-<details>
-  <summary><i>Abstract</i></summary>
-How do voters in developing countries view the green energy transition? Global efforts to stem emissions in the face of climate change increasingly focus on decommissioning legacy fossil fuel assets in the Global South. But this can heighten tensions between climate and development goals, since developing countries have growing energy demand. As such, these projects can open new cleavages between citizens in developing countries who prioritize different objectives. We leverage the unexpected announcement of the premature decommissioning of the Cirebon-1 coal plant in the weeks prior to the 2024 Indonesian national election to understand the effects of the energy transition on political support and attitudes. We use an interrupted survey design with geolocated data to test the countervailing pressures of economic development and environmental damage for citizens in the wake of the decommissioning announcement. We find that people situated near the plant become more opposed to the status quo candidate and less likely to support environmental policies. We then extend this to consider individuals sited near each Indonesian coal-fired power plant to examine how variation in local attitudes should inform the design of just transition packages that can accompany future decommissioning projects.
-
-  </details>
 
 
 <p>
