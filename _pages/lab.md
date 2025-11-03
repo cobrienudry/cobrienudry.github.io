@@ -20,15 +20,40 @@ The lab explores questions related to foreign aid, climate change, and internati
 UIUC students interested in joining the lab should fill out [this form]([url](https://pol.illinois.edu/research/undergraduate-research/faculty-research-undergraduates)).
 
 
-Current team members:
+Our 2025/6 lab manager is Ping Meunprasittiveg.
 
+Current Lab members
+
+Ani Apresyan
+Sia Bhutani
+Ishita Chaurasia
+Ben Conway
+Grace Farrar
+Kevin Jaime-Villagomez
+Ananya Kavatekar
 Ping Meunprasittiveg
+Eshal Mirza
+Nitya Nair
+Enrique Padilla
+Sankirtana Ravichandran
+Ishani Sahu
+Kayla Sanchez
+Dev Shah
+Shlok Shah
+Dexter Skobel
+Martha Sulzen
+Hannah Sundararajan
+Steven Tobia
+Connor Waddell
+Kris Wu
 
-Sankirtana Ravichandran 
+Alumni
 
-Shlok Shah 
-
-Martha Sulzen 
+Sophia Teresa Alvarez
+Aleeha Javed Chughtai
+Wencheng Huangfu
+Jonathan Kroeze
+Vedika Amit Shah
 
 
 
