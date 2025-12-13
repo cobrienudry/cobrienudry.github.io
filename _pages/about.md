@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
   - 
 ---
-p {
-  font-family: "Times New Roman", Times, Georgia, serif;
-} 
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JXH49J0PEN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
