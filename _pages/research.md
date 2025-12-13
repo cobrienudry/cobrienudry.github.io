@@ -4,7 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+p {
+  font-family: "Times New Roman", Times, Georgia, serif;
+}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JXH49J0PEN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -51,7 +53,7 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
   
 <h2 style="font-size:22px; ">Under review </h2>
   
-The politics of the green energy transition in developing countries (<a href= "https://cobrienudry.github.io/files/greening_aid_Aug25.pdf">draft</a>) 
+The politics of the green energy transition in developing countries (<a href= "https://cobrienudry.github.io/files/greening_aid_Aug25.pdf">draft</a>) (<i>R&R at AJPS</i>)
 <details>
   <summary><i>Abstract</i></summary>
 
