@@ -24,35 +24,63 @@ Our 2025/6 lab manager is Ping Meunprasittiveg.
 
 Current Lab members
 
-Ani Apresyan
+Ani Apresyan 
+
 Sia Bhutani
+
 Ishita Chaurasia
+
 Ben Conway
+
 Grace Farrar
+
 Kevin Jaime-Villagomez
+
 Ananya Kavatekar
+
 Ping Meunprasittiveg
+
 Eshal Mirza
+
 Nitya Nair
+
 Enrique Padilla
+
 Sankirtana Ravichandran
+
 Ishani Sahu
+
 Kayla Sanchez
+
 Dev Shah
+
 Shlok Shah
+
 Dexter Skobel
+
 Martha Sulzen
+
 Hannah Sundararajan
+
 Steven Tobia
+
 Connor Waddell
+
 Kris Wu
+
+
+
 
 Alumni
 
 Sophia Teresa Alvarez
+
 Aleeha Javed Chughtai
+
 Wencheng Huangfu
+
 Jonathan Kroeze
+
 Vedika Amit Shah
 
 
