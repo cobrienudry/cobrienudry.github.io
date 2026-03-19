@@ -18,6 +18,6 @@ redirect_from:
   gtag('config', 'G-JXH49J0PEN');
 </script>
 
-I am an Assistant Professor in the Political Science Department at the University of Illinois, Urbana-Champaign. Previously, I was the postdoctoral fellow at the Christopher H. Browne Center for International Relations at the University of Pennsylvania and I recieved my PhD in political science from Yale in 2023. My research agenda, broadly characterized as the international political economy of development, examines the domestic political consequences of foreign aid with particular attention to climate finance.
+I am an Assistant Professor in the Political Science Department at the University of Illinois, Urbana-Champaign where I am also an affiliate at the <a href="https://sustainability.illinois.edu">Institute for Sustainability, Energy, and Environment</a>. Previously, I was the postdoctoral fellow at the Christopher H. Browne Center for International Relations at the University of Pennsylvania. I recieved my PhD in political science from Yale in 2023. My research agenda, broadly characterized as the international political economy of development, examines the domestic political consequences of foreign aid with particular attention to climate finance.
 
 My work has been published or accepted at journals such as <i>International Studies Quarterly</i>, <i>World Development</i>, and <i>Review of International Organizations</i>.
