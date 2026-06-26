@@ -14,25 +14,22 @@ author_profile: true
 </script>
 
 
-
-Please use the following link to book a 15-minute meeting <a href="https://outlook.office.com/bookwithme/user/097003618e5b4e3b89e0a6e1dd785630@illinois.edu/meetingtype/255OXYx9AkKpAh39mGndpQ2?anonymous&ep=mlink"> Office hours</a>
-
 University of Illinois Urbana-Champaign
-- Politics of International Development (undergraudate, Fall 2024) <a href="https://cobrienudry.github.io/files/PLSC 340 revised.docx">syllabus</a>.
-- Politics of Climate Change in Developing States (undergraudate, Spring/Fall 2025) <a href = "https://cobrienudry.github.io/files/The Politics of Climate Change in Developing States.pdf">syllabus</a>
-- International Political Economy (graduate, Spring 2026)
+- Politics of International Development (UG)  -- F2024, F2026 <a href="https://cobrienudry.github.io/files/PLSC 340 revised.docx">syllabus</a>.
+- Politics of Climate Change in Developing States  (UG)  -- S2025, F2026, F 2027 <a href = "https://cobrienudry.github.io/files/The Politics of Climate Change in Developing States.pdf">syllabus</a>
+- International Political Economy (G, UG)  -- S2026, FS2027
 
 
 University of Pennsylvania, Postdoctoral Fellow (2024)
-- Political Economy of Foreign Aid (undergraudate, Spring 2024)
+- Political Economy of Foreign Aid (UG) -- S2024
 
 Wesleyan University, Visiting Lecturer (2022)
-- Political Economy of Foreign Aid <a href="https://cobrienudry.github.io/files/syllabus.pdf">syllabus</a>.
+- Political Economy of Foreign Aid (UG) -- S2022 <a href="https://cobrienudry.github.io/files/syllabus.pdf">syllabus</a>.
 
 Yale University, Teaching Fellow (2019-2023)
-- Bioethics and Law (head TF, undergraduate, Spring 2023)
-- International Law and Cooperation (undergraduate, Fall 2022)
-- Introduction to Internaitonal Relations (undergraduate, Spring 2021)
-- Visualization of Political and Social Data (undergraduate, Fall 2020)
-- Quantitative Methods II: Foundations of Statistical Inference (graduate, Spring 2020)
-- Legacies of Conflict and Communism in Europe (undergraduate, Fall 2019); guest lecturer (2019, 2020, 2021)
+- Bioethics and Law (head TF, UG)  -- S2023
+- International Law and Cooperation (UG)  -- F2022
+- Introduction to Internaitonal Relations (UG)  -- S2021
+- Visualization of Political and Social Data (UG)  -- F2020
+- Quantitative Methods II: Foundations of Statistical Inference (G) -- S2020
+- Legacies of Conflict and Communism in Europe (UG) -- F2019; guest lecturer 2019, 2020, 2021
