@@ -14,19 +14,19 @@ author_profile: true
 </script>
 
 
-University of Illinois Urbana-Champaign
+## University of Illinois Urbana-Champaign
 - Politics of International Development (UG)  -- F2024, F2026 <a href="https://cobrienudry.github.io/files/PLSC 340 revised.docx">syllabus</a>.
 - Politics of Climate Change in Developing States  (UG)  -- S2025, F2026, F 2027 <a href = "https://cobrienudry.github.io/files/The Politics of Climate Change in Developing States.pdf">syllabus</a>
 - International Political Economy (G, UG)  -- S2026, FS2027
 
 
-University of Pennsylvania, Postdoctoral Fellow (2024)
+## University of Pennsylvania, Postdoctoral Fellow (2024)
 - Political Economy of Foreign Aid (UG) -- S2024
 
-Wesleyan University, Visiting Lecturer (2022)
+## Wesleyan University, Visiting Lecturer (2022)
 - Political Economy of Foreign Aid (UG) -- S2022 <a href="https://cobrienudry.github.io/files/syllabus.pdf">syllabus</a>.
 
-Yale University, Teaching Fellow (2019-2023)
+## Yale University, Teaching Fellow (2019-2023)
 - Bioethics and Law (head TF, UG)  -- S2023
 - International Law and Cooperation (UG)  -- F2022
 - Introduction to Internaitonal Relations (UG)  -- S2021
