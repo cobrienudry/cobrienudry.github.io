@@ -20,19 +20,19 @@ The lab explores questions related to foreign aid, climate change, and internati
 
 ### Current Lab members
 
-Ani Apresyan 
-
-Sia Bhutani
+Ani Apresyan (Team Leader -- Galamsey)
 
 Ishita Chaurasia
 
 Ben Conway
 
-Grace Farrar
+Grace Farrar (Team Leader -- Aid Withdrawal Speech)
 
 Ananya Kavatekar
 
 Max Kwon-Allred
+
+Annie Ostrozhansky (Team Leader -- Aid Withdrawal Cases)
 
 Enrique Padilla
 
@@ -44,7 +44,7 @@ Josie Stanton
 
 Steven Tobia
 
-Connor Waddell
+Connor Waddell (Team Leader -- Bureaucrats)
 
 
 
@@ -54,6 +54,8 @@ Connor Waddell
 ### Alumni
 
 Sophia Teresa Alvarez
+
+Sia Bhutani
 
 Aleeha Javed Chughtai
 
@@ -65,7 +67,7 @@ Kevin Jaime-Villagomez
 
 Jonathan Kroeze
 
-Ping Meunprasittiveg
+Ping Meunprasittiveg (Lab Organizer)
 
 Eshal Mirza
 
