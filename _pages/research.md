@@ -16,140 +16,41 @@ author_profile: true
 
 Publications
 ---
-<ol>
-  <li>
-Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) <i>International Studies Quarterly</i> (<a href = "https://academic.oup.com/isq/article/69/2/sqaf032/8118923">link</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Oct24.pdf">ungated</a>) 
-<details>
-  <summary><i>Abstract</i></summary>
-  
-  Technological breakthroughs often reshape patterns of international exchange and interdependence, posing unique challenges for governments. We argue that innovation reduces policy autonomy among national governments in two ways. First, lower barriers to entry create opportunities for forum-shopping by researchers, firms, and other actors. This facilitates regulatory arbitrage as actors evade national rules by relocating to more permissive jurisdictions. Second, public unease about new technologies creates the potential for backlash against controversial applications. This backlash can spill across borders: accidents or misuse in one jurisdiction undermine support for research and commercial development elsewhere. Together, these processes can generate inefficient cycles of accelerated progress disrupted by damaging controversies. We test these mechanisms in the case of gene editing,  nding support for the theory in data on scientific employment patterns and a survey experiment examining public backlash. Our results demonstrate that technological disruption increases interdependence and undermines states' ability to regulate in isolation.
-</details>
-</li>
 
-  <li>
-    The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) <i>Review of International Organizations</i> (<a href="https://link.springer.com/article/10.1007/s11558-024-09543-6">link</a>)  (<a href="https://cobrienudry.github.io/files/status_Aug2023.pdf">ungated</a>)
-<details>
-  <summary><i>Abstract</i></summary>
-  
-States use symbolic gestures to increase their international status, or relative position, within the international community. But how do the status-seeking actions of one state a ect the status of others? The common assumption is that improvements in one state's status lead to the relative deterioration of other states' status by comparison. In this paper, we focus on status' social qualities to delineate multiple theoretical pathways through which one state's status can change -- or not -- relative to another. Status is not conferred in a vacuum and the consequences of status-altering activities may spill over to third-parties. We field an original survey and reanalyze several existing studies to understand how relative status operates in the case of foreign aid; these surveys reveal novel empirical patterns about the circumstances under which a state's status will change relative to other states. We extend the analysis to examine who updates perceptions, what actions change status, and for whom status changes. Our findings suggest that status-enhancing actions may be successful at augmenting status amongst peers, but ultimately unsuccessful at changing global hierarchies.
-</details> 
-</li>
-<li> Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) <i>World Development</i>.
-Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/article/pii/S0305750X2400041X">link</a>) (<a href= "cobrienudry.github.io/files/WD_aid_withdrawal_intro.pdf">ungated</a>) 
+## Publications
 
-<details>
-  <summary><i>Abstract</i></summary>
-• Aid withdrawals/suspensions are qualitatively different from giving no aid, and frame development.
-• Aid suspensions follow a long chain of understudied political calculations and decisions by donors and recipients.
-• Further research is needed on the political calculations and options used by aid-receiving states to discipline donors.
-</details>
-</li>
+- O'Brien-Udry, Cleo, and [Tyler Pratt](https://www.laurenleeferry.com/). "Innovation and Interdependence: The Case of Gene-Editing Technology." [_International Studies Quarterly_, 2025](https://academic.oup.com/isq/article-abstract/69/2/sqaf032/8118923). [Ungated](sqaf032.pdf)
 
-</ol>
-<p>
-<p>
-  
-<h2 style="font-size:22px; ">Under review </h2>
-  
-Greening Aid, Shifting Votes: The Domestic Politics of International Climate Finance (<a href= "https://cobrienudry.github.io/files/greening_aid_May26.pdf">draft</a>) (<i>R&R at AJPS</i>)
-<details>
-  <summary><i>Abstract</i></summary>
+- [Ferry, Lauren Lee](https://www.laurenleeferry.com/) and Cleo O'Brien-Udry. "The Possibilities and Limits of International Status: Evidence from Foreign Aid and Public Opinion." [_Review of International Organizations_, 2024](https://link.springer.com/article/10.1007/s11558-024-09543-6). [Ungated](s11558-024-09543-6.pdf)
 
-Alongside growing impacts of climate change, countries face political challenges in shifting from fossil fuels to renewables. While opposition from fossil fuel communities is well-documented in rich countries, less is known about impacts outside of these settings—-yet 95% of emissions growth occurs in developing countries. This study explores how international green energy funding to aid-dependent countries can drive domestic political dynamics. Specifically, such funding triggers backlash against domestic political allies of international actors. Using data on the withdrawal of World Bank funding from coal projects in Kosovo applied to a spatial di!erence-in-di!erences design, I analyze shifts in voting trends based on party support of international interests. Coal-dependent areas penalize pro-international parties and back pro-coal parties after funding ends, while communities near renewable projects show the reverse. Cross-national analysis reveals similar trends, linking international influence to pro-renewable attitudes.
-</details>
+- [Cheeseman, Nic](https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic), [Haley Swedlund](https://haleyswedlund.com/), and Cleo O'Brien-Udry. "Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introduction to Special Issue on Foreign Aid Withdrawals and Suspensions." [_World Development_, 2024](https://www.sciencedirect.com/science/article/pii/S0305750X2400041X).[Ungated](1-s2.0-S0305750X2400041X-main.pdf)
 
-<p>
-<p>
+## Under Review
 
-Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives
- (with Jon Pevehouse and Ed Mansfield) (<a href= "https://cobrienudry.github.io/files/Decarbonization and deindustrialization_COU2.docx">draft</a>)
- <details>
-  <summary><i>Abstract</i></summary>
-The twin threats to global economic stability of Russia’s invasion of Ukraine and President Donald Trump’s anti-green policies are likely to slow the renewable energy transition in rich, industrialized countries. Europe’s desire for energy security and rearmament in the face of Russian aggression and wavering support from the United States has redirected the attention of the traditionally environmentally inclined European parties away from energy and towards more pressing, existential concerns. The U.S. remains one of the largest carbon producers globally and the Trump Administration’s cuts to environmental protections and green energy credits are likely to stymie domestic efforts to reduce emissions. While the advanced economies have largely abandoned efforts to lead a global transition to green energy, the international instability that they currently face may accelerate renewable adoption in the Global South. Contrary to traditional theories of global change in international relations, a combination of existing policies—particularly China’s investment in renewable technologies—and pressure from trade competition is likely to enhance the green energy transition in developing countries. 
-  </details>
+- O'Brien-Udry, Cleo. ["The Politics of the Green Energy Transition in Developing Countries."](greening_aid_May26.pdf) Under review, _American Journal of Political Science_ (R&R).
+- O'Brien-Udry, Cleo, [Jon Pevehouse](https://polisci.wisc.edu/staff/jon-c-w-pevehouse/), and [Ed Mansfield](https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/edward-d-mansfield). ["Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives."]() Under review.
+- O'Brien-Udry, Cleo, and [Sam S. Rowan](https://sites.google.com/view/sam-rowan/home). ["Phasing Out Coal-Fired Power in Indonesia."](idn_coal_phaseout_REVISED.pdf) Under review, _Global Environmental Politics_ (R&R).
 
-<p>
-<p>
+## Working Papers
 
+- O'Brien-Udry, Cleo. ["Aid, Blame, and Backlash." ](blame_May2023.pdf)
+- O'Brien-Udry, Cleo. ["The Political Geography of the Energy Transition in the Global South."](pol_geo_Sep25.pdf) 
+- O'Brien-Udry, Cleo. ["A Domestic Political Economy of Targeted Aid." ](minority_May2023.pdf)
 
-Phasing out coal-fired power in Indonesia  (with <a href= "https://sites.google.com/view/sam-rowan/home?authuser=0">Sam S. Rowan</a>) (<a href= "https://cobrienudry.github.io/files/idn_coal_phaseout.pdf">draft</a>) (<i>R&R at Global Environmental Politics</i>)
-<details>
-  <summary><i>Abstract</i></summary>
-How do voters in developing countries view the green energy transition? Global efforts to stem emissions in the face of climate change increasingly focus on decommissioning legacy fossil fuel assets in the Global South. But this can open new cleavages between citizens in developing countries who differ in their climate and development goals. We leverage the unexpected announcement of the premature decommissioning of the Cirebon-1 coal plant in the weeks prior to the 2024 Indonesian national election to understand the effects of the energy transition on political support and attitudes. We use an interrupted survey design with geolocated data to test the countervailing pressures of economic development and environmental damage for citizens in the wake of the decommissioning announcement. We find that people situated near the plant become more opposed to the status quo candidate and less likely to support environmental policies. We then extend this to consider individuals sited near each Indonesian coal-fired power plant to examine how variation in local attitudes should inform the design of just transition packages that can accompany future decommissioning projects.
+## In Progress
 
-  </details>
+- [Dolan, Lindsay](https://lindsayrdolan.com/) and Cleo O'Brien-Udry, Cleo. "Superstar Bureaucrats from the Global South."
+- O'Brien-Udry, Cleo, and [Christopher Udry](https://economics.northwestern.edu/people/directory/christopher-udry.html)]. "Communal Property Rights and Expropriation: Evidence from Gold Mining."
+- O'Brien-Udry, Cleo. "The Power Dilemma: How the Green Energy Transition Reshapes Democracy in the Global South." 
+- O'Brien-Udry, Cleo, and [Gino Pauselli][[gpause](http://ginopauselli.com/)]. "Greening Repression." 
+- [Matush, Kelly](https://www.kellymatush.com/), Cleo O'Brien-Udry, [Manon Fortemps](https://www.linkedin.com/in/manonfortemps), and [Jennifer Tobin](https://faculty.georgetown.edu/jlt58/). "Strategic Rhetoric under Asymmetric Interdependence: Evidence from the 2025 USAID Withdrawal." 
+- [Buntaine, Mark](https://markbuntaine.com), [Paasha Mahdavi](https://paashamahdavi.com), [Daniel Nielson](https://liberalarts.utexas.edu/government/faculty/dn5373), and Cleo O'Brien-Udry. "The Political Economy of Carbon Offsets Scandals." 
+- O'Brien-Udry, Cleo. "Observing Aid Withdrawal." 
 
-  <p>
-<p>
+## Other Work
 
-<h2 style="font-size:22px; "> Working Papers</h2>
-<p>
-<p>
-  
-A political economy of aid and legitimacy (<a href="https://cobrienudry.github.io/files/minority_2023.pdf">draft</a>) 
-<details>
-  <summary><i>Abstract</i></summary>
-  
-  While some scholars find that recipient citizens credit domestic governments for aid, other scholars see aid credited to international donors. I theorize the conditions under which aid recipients will credit donors or governments. I start from two stylized facts: 1) aid is politically targeted and 2) aid features a long chain of diverse actors. The political targeting of aid leads political allies of the domestic government to expect, and often receive, large shares of aid. However, politically excluded groups can observe this phenomenon and do not expect to receive targeted aid from domestic governments. When politically excluded groups receive aid, they attribute less credit to the government, instead crediting international organizations with the aid. Using ethnicity as a salient and visible political cleavage, I show that when ethnic groups are excluded from political power, they do not credit governments with foreign aid. This pattern reverses when aid is non-excludable, where government involvement is visible, and spatial ethnic segregation low. By targeting aid at ethnic minorities, international organizations may create perverse incentives for domestic governments to further shift funding away from ethnic minorities if targeting these groups offers few domestic political benefits.
-</details>
+- O'Brien-Udry, Cleo. "My Turn | How USAID Funding Cuts Hurt Illinois." _The News-Gazette_, 25 Feb. 2025, [news-gazette.com](https://www.news-gazette.com/opinion/guest-commentary/my-turn-how-usaid-funding-cuts-hurt-illinois/article_f6cc845c-f2f4-11ef-b9be-8fc09e427d47.html).
+- O'Brien-Udry, Cleo. "How Will the End of Federal Funding to USAID Impact Institutions in Illinois?" _The 21st Show_, Illinois Public Media, 18 Feb. 2025, [will.illinois.edu](https://will.illinois.edu/21stshow/story/how-will-ending-federal-funding-to-usaid-impact-institutions-in-illinois).
+- O'Brien-Udry, Cleo, [Alexander Kirss][akirss], and [Paul Ko][pko]. "Less Stress, More Confidence: Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop." [_PS: Political Science & Politics_, 2021](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/less-stress-more-confidence-supporting-junior-scholars-online-at-the-graduate-student-international-political-economy-workshop/A175F2AE8EC397F9EE967623D48B9BD5).
 
-<p>
-<p>
-  
-Aid, blame, and backlash (<a href= "https://cobrienudry.github.io/files/blame_May2023.pdf">draft</a>)
-<details>
-  <summary><i>Abstract</i></summary>
-  
-Donors use foreign aid to promote liberal values such as democracy and multicul- turalism in developing countries. An under-explored dimension of foreign aid is aid to ethnic minorities. I show that donors explicitly target ethnic minority groups in countries across the world. How does foreign aid for ethnic minorities affect politics in recipient countries? I argue that minority aid comes at a cost (real and perceived) to ethnic majority groups; the blame for this aid is then placed on political representa- tives. Novel observational and experimental evidence finds three significant challenges to donor support for minority aid: 1) minority aid reduces the amount of general aid, 2) citizens oppose politicians who acquire minority aid and support anti-minority parties, and 3) citizens are willing to forgo substantial aid to prevent minority aid targeting. Donor attempts to help vulnerable populations may lead to backlash that empowers anti-minority actors, making the political landscape of recipient countries more dangerous for the groups they sought to aid.
-</details>
-
-<p>
-<p>
-
-
-
-The political geography of the international energy transition in the Global South (<a href= "https://cobrienudry.github.io/files/pol_geo_Sep25.pdf">draft</a>)
-<details>
-  <summary><i>Abstract</i></summary>
-What proportion of existing fossil fuel infrastructure in the Global South can be explained by political targeting compared to geographic endowments? How does this fossil fuel targeting affect countries’ ability or willingness to transition to renewable energy sources? Canonically, natural resources for energy generation are geographically determined--but renewable energy sources are more flexible in their potential locations. I examine the political determinants of energy generation projects before and during the international community’s green energy investment push. Using geolocated Chinese and World Bank-sponsored energy projects over time and measures of political targeting, including leader birth regions, ethnicities, and traditional voting blocs, I map the political geography of the energy transition in sub-Saharan Africa. Initial results indicate that, in countries where fossil fuel is disproportionately politically targeted compared to other aid projects, renewable energy projects are also disproportionately likely to be politically allocated.  Results are significantly stronger for Chinese projects—suggesting that domestic leaders are directing this political targeting. International efforts to support the green energy transition likely entrench local elites and raise questions about the efficacy of Just Energy Transition Partnerships.
-
-</details>
-
-<p>
-<p>
-
-<h2 style="font-size:22px; "> In Progress </h2>
-<p>
-
-
-<p>
-<p>
-  
-Superstar Bureaucrats from the Global South(with <a href= "http://lindsayrdolan.com/">Lindsay Dolan</a>)
-<details>
-  <summary><i>Abstract</i></summary>
-The personal and the personnel: how relationships between domestic and international bureaucratic shape foreign aid
-
-A large and growing body of evidence suggests that individual bureaucrats who work for international financial institutions have an impact on their outcomes: high-quality bureaucrats produce high-quality results. Far less attention has been paid to the individual bureaucrats who represent client countries to these institutions. We use a novel source of data to identify the individuals that client countries designate as “contact points” to the World Bank. These bureaucrats, when associated with higher-quality projects early on, are associated with greater numbers of future projects and future projects of higher quality. We then show that client countries use “superstar” bureaucrats to strategically get more, and strategically targeted, projects. However, the success of these superstar bureaucrats also makes them targets for hiring by the World Bank and other international organizations. Using a new dataset of client country bureaucrat employment histories, we show that bureaucrats associated consistently with more successful projects are more likely to subsequently work for international actors. This, in turn, disrupts  recipient countries’ investments in bureaucratic quality. International organization brain drain undermines client countries’ ability to strategically target World Bank projects. 
-
-
-</details>
-
-<p>
-<p>
-<h2 style="font-size:22px; "> Public Commentary </h2>
-
-"My Turn | How USAID funding cuts hurt Illinois" The News-Gazette. February 25, 2025. (<a href="https://www.news-gazette.com/opinion/guest-commentary/my-turn-how-usaid-funding-cuts-hurt-illinois/article_f6cc845c-f2f4-11ef-b9be-8fc09e427d47.html">link</a>)
-
-<p>
-<p>
-
-"How will the end of federal funding to USAID impact institutions in Illinois?" The 21st Show. Illinois Public Media. February 18, 2025. (<a href="https://will.illinois.edu/21stshow/story/how-will-ending-federal-funding-to-usaid-impact-institutions-in-illinois">link</a>)
-<p>
-<p>
-  
-<h2 style="font-size:22px; "> Other Work </h2>
-
-"Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop. 2022, <span class="emphasize">PS: Political Science & Politics</span>. (with Alex Kirss and Paul Ko). (<a href= "https://cobrienudry.github.io/files/ps_gsipe.pdf">ungated</a>)
-
-
+<!-- Coauthor websites — fill these in, then they auto-apply to every link above -->
