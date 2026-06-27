@@ -27,11 +27,11 @@ author_profile: true
 ## Under Review
 
 <ol reversed>
-<li>O'Brien-Udry, Cleo. <a href="greening_aid_May26.pdf">"The Politics of the Green Energy Transition in Developing Countries."</a> Under review, <em>American Journal of Political Science</em> (R&amp;R).</li>
+<li>O'Brien-Udry, Cleo. <a href="greening_aid_May26.pdf">"Greening Aid, Shifting Votes: The Domestic Politics of International Climate Finance."</a> <em>American Journal of Political Science</em> (R&amp;R).</li>
 
-<li>O'Brien-Udry, Cleo, <a href="https://polisci.wisc.edu/staff/jon-c-w-pevehouse/">Jon Pevehouse</a>, and <a href="https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/edward-d-mansfield">Ed Mansfield</a>. "Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives." Under review.</li>
+<li>O'Brien-Udry, Cleo, <a href="https://polisci.wisc.edu/staff/jon-c-w-pevehouse/">Jon Pevehouse</a>, and <a href="https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/edward-d-mansfield">Ed Mansfield</a>. "Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives." </li>
 
-<li>O'Brien-Udry, Cleo, and <a href="https://sites.google.com/view/sam-rowan/home">Sam S. Rowan</a>. <a href="idn_coal_phaseout_REVISED.pdf">"Phasing Out Coal-Fired Power in Indonesia."</a> Under review, <em>Global Environmental Politics</em> (R&amp;R).</li>
+<li>O'Brien-Udry, Cleo, and <a href="https://sites.google.com/view/sam-rowan/home">Sam S. Rowan</a>. <a href="idn_coal_phaseout_REVISED.pdf">"Phasing Out Coal-Fired Power in Indonesia."</a> <em>Global Environmental Politics</em> (R&amp;R).</li>
 </ol>
 
 ## Working Papers
