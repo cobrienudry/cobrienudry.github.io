@@ -27,7 +27,7 @@ author_profile: true
 ## Under Review
 
 <ol reversed>
-<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/fr26emyzt51j3mgxikiup/greening_aid_May26.pdf?rlkey=llx83f9xovn8gxm3x7humxi9a&dl=0">"Greening Aid, Shifting Votes: The Domestic Politics of International Climate Finance."</a> <em>American Journal of Political Science</em> (R&amp;R).</li>
+<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/fr26emyzt51j3mgxikiup/greening_aid_May26.pdf?rlkey=llx83f9xovn8gxm3x7humxi9a&st=ebuylka3&dl=0">"Greening Aid, Shifting Votes: The Domestic Politics of International Climate Finance."</a> <em>American Journal of Political Science</em> (R&amp;R).</li>
 
 <li>O'Brien-Udry, Cleo, <a href="https://polisci.wisc.edu/staff/jon-c-w-pevehouse/">Jon Pevehouse</a>, and <a href="https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/edward-d-mansfield">Ed Mansfield</a>. "Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives." </li>
 
