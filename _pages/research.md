@@ -17,11 +17,11 @@ author_profile: true
 ## Publications
 
 <ol reversed>
-<li>O'Brien-Udry, Cleo, and <a href="https://www.tylerbpratt.com/">Tyler Pratt</a>. "Innovation and Interdependence: The Case of Gene-Editing Technology." <a href="https://academic.oup.com/isq/article-abstract/69/2/sqaf032/8118923"><em>International Studies Quarterly</em>, 2025</a>. <a href="sqaf032.pdf">Ungated</a></li>
+<li>O'Brien-Udry, Cleo, and <a href="https://www.tylerbpratt.com/">Tyler Pratt</a>. "Innovation and Interdependence: The Case of Gene-Editing Technology." <a href="https://academic.oup.com/isq/article-abstract/69/2/sqaf032/8118923"><em>International Studies Quarterly</em>, 2025</a>. <a href="cobrienudry.github.io/files/sqaf032.pdf">Ungated</a></li>
 
-<li><a href="https://www.laurenleeferry.com/">Ferry, Lauren Lee</a> and Cleo O'Brien-Udry. "The Possibilities and Limits of International Status: Evidence from Foreign Aid and Public Opinion." <a href="https://link.springer.com/article/10.1007/s11558-024-09543-6"><em>Review of International Organizations</em>, 2024</a>. <a href="s11558-024-09543-6.pdf">Ungated</a></li>
+<li><a href="https://www.laurenleeferry.com/">Ferry, Lauren Lee</a> and Cleo O'Brien-Udry. "The Possibilities and Limits of International Status: Evidence from Foreign Aid and Public Opinion." <a href="https://link.springer.com/article/10.1007/s11558-024-09543-6"><em>Review of International Organizations</em>, 2024</a>. <a href="cobrienudry.github.io/files/s11558-024-09543-6.pdf">Ungated</a></li>
 
-<li><a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic">Cheeseman, Nic</a>, <a href="https://haleyswedlund.com/">Haley Swedlund</a>, and Cleo O'Brien-Udry. "Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introduction to Special Issue on Foreign Aid Withdrawals and Suspensions." <a href="https://www.sciencedirect.com/science/article/pii/S0305750X2400041X"><em>World Development</em>, 2024</a>. <a href="1-s2.0-S0305750X2400041X-main.pdf">Ungated</a></li>
+<li><a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic">Cheeseman, Nic</a>, <a href="https://haleyswedlund.com/">Haley Swedlund</a>, and Cleo O'Brien-Udry. "Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introduction to Special Issue on Foreign Aid Withdrawals and Suspensions." <a href="https://www.sciencedirect.com/science/article/pii/S0305750X2400041X"><em>World Development</em>, 2024</a>. <a href="cobrienudry.github.io/files/1-s2.0-S0305750X2400041X-main.pdf">Ungated</a></li>
 </ol>
 
 ## Under Review
