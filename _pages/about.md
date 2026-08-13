@@ -20,4 +20,4 @@ redirect_from:
 
 I am an Assistant Professor in the Political Science Department at the University of Illinois, Urbana-Champaign where I am also an affiliate at the <a href="https://sustainability.illinois.edu">Institute for Sustainability, Energy, and Environment</a>. Previously, I was the postdoctoral fellow at the Christopher H. Browne Center for International Relations at the University of Pennsylvania. I recieved my PhD in political science from Yale in 2023. I study the international political economy of development and climate change.
 
-My work has been published or conditionally accepted at journals such as <I>American Journal of Political Science</i>, <i>International Studies Quarterly</i>, <i>World Development</i>, and <i>Review of International Organizations</i>.
+My work has been published or conditionally accepted at journals such as the <I>American Journal of Political Science</i>, <i>International Studies Quarterly</i>, <i>World Development</i>, and <i>Review of International Organizations</i>.
