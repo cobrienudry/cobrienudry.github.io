@@ -17,6 +17,9 @@ author_profile: true
 ## Publications
 
 <ol reversed>
+
+  <li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/fr26emyzt51j3mgxikiup/greening_aid_May26.pdf?rlkey=llx83f9xovn8gxm3x7humxi9a&st=ebuylka3&dl=0">"Greening Aid, Shifting Votes: The Domestic Politics of International Climate Finance."</a> <em>American Journal of Political Science</em> (Conditionally accepted).</li>
+  
 <li>O'Brien-Udry, Cleo, and <a href="https://www.tylerbpratt.com/">Tyler Pratt</a>. "Innovation and Interdependence: The Case of Gene-Editing Technology." <a href="https://academic.oup.com/isq/article-abstract/69/2/sqaf032/8118923"><em>International Studies Quarterly</em>, 2025</a>. <a href="https://www.dropbox.com/scl/fi/hc0e293exvs6uxfnfic4i/sqaf032.pdf?rlkey=84rfovqm33mgn7lx80i2hug05&st=t22d43dw&dl=0">Ungated</a></li>
 
 <li><a href="https://www.laurenleeferry.com/">Ferry, Lauren Lee</a> and Cleo O'Brien-Udry. "The Possibilities and Limits of International Status: Evidence from Foreign Aid and Public Opinion." <a href="https://link.springer.com/article/10.1007/s11558-024-09543-6"><em>Review of International Organizations</em>, 2024</a>. <a href="https://www.dropbox.com/scl/fi/f8hosag2qupr9fss5sspa/s11558-024-09543-6-2.pdf?rlkey=gfzgelj311bsng5tbels7d4q1&st=s7csbiyw&dl=0">Ungated</a></li>
@@ -27,7 +30,7 @@ author_profile: true
 ## Under Review
 
 <ol reversed>
-<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/fr26emyzt51j3mgxikiup/greening_aid_May26.pdf?rlkey=llx83f9xovn8gxm3x7humxi9a&st=ebuylka3&dl=0">"Greening Aid, Shifting Votes: The Domestic Politics of International Climate Finance."</a> <em>American Journal of Political Science</em> (R&amp;R).</li>
+
 
 <li>O'Brien-Udry, Cleo, <a href="https://polisci.wisc.edu/staff/jon-c-w-pevehouse/">Jon Pevehouse</a>, and <a href="https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/edward-d-mansfield">Ed Mansfield</a>. "<a href = "https://www.dropbox.com/scl/fi/6g0iiz6chhe8jqy047e61/O-Brien-UdryPevehouseMansfield_Dec2025_edm.docx?rlkey=5jq1fusbr473ui5kqv4wkofkc&st=rw0gnm8s&dl=0"> Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives."</a></li>
 
