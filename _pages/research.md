@@ -34,7 +34,7 @@ author_profile: true
 
 <li>O'Brien-Udry, Cleo, <a href="https://polisci.wisc.edu/staff/jon-c-w-pevehouse/">Jon Pevehouse</a>, and <a href="https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/edward-d-mansfield">Ed Mansfield</a>. "<a href = "https://www.dropbox.com/scl/fi/6g0iiz6chhe8jqy047e61/O-Brien-UdryPevehouseMansfield_Dec2025_edm.docx?rlkey=5jq1fusbr473ui5kqv4wkofkc&st=rw0gnm8s&dl=0"> Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives."</a></li>
 
-<li>O'Brien-Udry, Cleo, and <a href="https://sites.google.com/view/sam-rowan/home">Sam S. Rowan</a>. <a href="https://www.dropbox.com/scl/fi/8d6kdwal0ssm70fuhg6mb/idn_coal_phaseout_REVISED.pdf?rlkey=t72brpphfm1vwt1xbcz5ro6dt&st=3ubbvwjc&dl=0">"Phasing Out Coal-Fired Power in Indonesia."</a> <em>Global Environmental Politics</em> (R&amp;R).</li>
+<li>O'Brien-Udry, Cleo, and <a href="https://sites.google.com/view/sam-rowan/home">Sam S. Rowan</a>. <a href="https://www.dropbox.com/scl/fi/8d6kdwal0ssm70fuhg6mb/idn_coal_phaseout_REVISED.pdf?rlkey=t72brpphfm1vwt1xbcz5ro6dt&st=3ubbvwjc&dl=0">"Phasing Out Coal-Fired Power in Indonesia."</a></li>
 </ol>
 
 ## Working Papers
