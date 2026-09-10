@@ -40,21 +40,22 @@ author_profile: true
 ## Working Papers
 
 <ol reversed>
-<li>O'Brien-Udry, Cleo. <a href="blame_May2023.pdf">"Aid, Blame, and Backlash."</a></li>
-<li>O'Brien-Udry, Cleo. <a href="pol_geo_Sep25.pdf">"The Political Geography of the Energy Transition in the Global South."</a></li>
-<li>O'Brien-Udry, Cleo. <a href="minority_May2023.pdf">"A Domestic Political Economy of Targeted Aid."</a></li>
+<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/3n0r3xyanek6rhuqwog08/minority_aid_May24.pdf?rlkey=lwpvjufe3vtzm31ffdpztfrqe&dl=0">"Aid, Blame, and Backlash."</a></li>
+<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/uq1mu873r2oa08i73oxof/pol_geo_Sep25.pdf?rlkey=2ugkee2j28dt2ezdzn772sw7u&dl=0">"The Political Geography of the Energy Transition in the Global South."</a></li>
+<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/pqplpk5qxon82iq5gq94m/minority_May2023.pdf?rlkey=kbljulsunqn737d2bnvc9qx1n&dl=0">"A Domestic Political Economy of Targeted Aid."</a></li>
 </ol>
 
 ## In Progress
 
 <ol reversed>
-<li><a href="https://lindsayrdolan.com/">Dolan, Lindsay</a> and Cleo O'Brien-Udry. "Superstar Bureaucrats from the Global South."</li>
+<li><a href="https://lindsayrdolan.com/">Dolan, Lindsay</a> and Cleo O'Brien-Udry. <a href = "https://www.dropbox.com/scl/fi/0tggqz66q6jpes6hv41q7/Dolan_O_Brien_Udry_APSA-2.pdf?rlkey=9wljauwsdu26xbkybya7xe2l0&dl=0">"Development’s Insiders: The Selective World of World
+Bank Counterparts."</a></li>
 
 <li>O'Brien-Udry, Cleo, and <a href="https://economics.northwestern.edu/people/directory/christopher-udry.html">Christopher Udry</a>. "Communal Property Rights and Expropriation: Evidence from Gold Mining."</li>
 
-<li>O'Brien-Udry, Cleo. "The Power Dilemma: How the Green Energy Transition Reshapes Democracy in the Global South."</li>
+<li>O'Brien-Udry, Cleo. <a href = "https://www.dropbox.com/scl/fi/4kb21d43fte9wiofasdu7/O-Brien-Udry_EPG_26.pdf?rlkey=avra83mgj1ski0xsx3ffyqk8g&dl=0"> "The Power Dilemma: How the Green Energy Transition Reshapes Democracy in the Global South."</a></li>
 
-<li>O'Brien-Udry, Cleo, and <a href="http://ginopauselli.com/">Gino Pauselli</a>. "Greening Repression."</li>
+<li>O'Brien-Udry, Cleo, and <a href="http://ginopauselli.com/">Gino Pauselli</a>. <a href="https://www.dropbox.com/scl/fi/5gxh2rjmys0ckj81810n2/O-Brien-Udry_Pauselli_APSA.pdf?rlkey=d5rzifl6ifacyvmx8w0y07am9&dl=0" > "Greening Repression."</a></li>
 
 <li><a href="https://www.kellymatush.com/">Matush, Kelly</a>, Cleo O'Brien-Udry, <a href="https://www.linkedin.com/in/manonfortemps">Manon Fortemps</a>, and <a href="https://faculty.georgetown.edu/jlt58/">Jennifer Tobin</a>. "Strategic Rhetoric under Asymmetric Interdependence: Evidence from the 2025 USAID Withdrawal."</li>
 
