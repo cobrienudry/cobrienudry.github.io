@@ -40,9 +40,9 @@ author_profile: true
 ## Working Papers
 
 <ol reversed>
-<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/3n0r3xyanek6rhuqwog08/minority_aid_May24.pdf?rlkey=lwpvjufe3vtzm31ffdpztfrqe&dl=0">"Aid, Blame, and Backlash."</a></li>
+<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/3n0r3xyanek6rhuqwog08/minority_aid_May24.pdf?rlkey=lwpvjufe3vtzm31ffdpztfrqe&dl=0">"The Price of Protection: Backlash to Internationally Targeted Minority Aid."</a></li>
 <li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/uq1mu873r2oa08i73oxof/pol_geo_Sep25.pdf?rlkey=2ugkee2j28dt2ezdzn772sw7u&dl=0">"The Political Geography of the Energy Transition in the Global South."</a></li>
-<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/pqplpk5qxon82iq5gq94m/minority_May2023.pdf?rlkey=kbljulsunqn737d2bnvc9qx1n&dl=0">"A Domestic Political Economy of Targeted Aid."</a></li>
+<li>O'Brien-Udry, Cleo. <a href="https://www.dropbox.com/scl/fi/pqplpk5qxon82iq5gq94m/minority_May2023.pdf?rlkey=kbljulsunqn737d2bnvc9qx1n&dl=0">"A Political Economy of Aid and Legitimacy."</a></li>
 </ol>
 
 ## In Progress
