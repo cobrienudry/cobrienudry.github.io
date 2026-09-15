@@ -57,7 +57,8 @@ Bank Counterparts."</a></li>
 
 <li>O'Brien-Udry, Cleo, and <a href="http://ginopauselli.com/">Gino Pauselli</a>. <a href="https://www.dropbox.com/scl/fi/5gxh2rjmys0ckj81810n2/O-Brien-Udry_Pauselli_APSA.pdf?rlkey=d5rzifl6ifacyvmx8w0y07am9&dl=0" > "Greening Repression."</a></li>
 
-<li><a href="https://www.kellymatush.com/">Matush, Kelly</a>, Cleo O'Brien-Udry, <a href="https://www.linkedin.com/in/manonfortemps">Manon Fortemps</a>, and <a href="https://faculty.georgetown.edu/jlt58/">Jennifer Tobin</a>. "Strategic Rhetoric under Asymmetric Interdependence: Evidence from the 2025 USAID Withdrawal."</li>
+<li><a href="https://www.kellymatush.com/">Matush, Kelly</a>, Cleo O'Brien-Udry, <a href="https://www.linkedin.com/in/manonfortemps">Manon Fortemps</a>, and <a href="https://faculty.georgetown.edu/jlt58/">Jennifer Tobin</a>. "Exposing Dependence:
+How Aid Withdrawal Unveils the Development State."</li>
 
 <li><a href="https://markbuntaine.com">Buntaine, Mark</a>, <a href="https://paashamahdavi.com">Paasha Mahdavi</a>, <a href="https://liberalarts.utexas.edu/government/faculty/dn5373">Daniel Nielson</a>, and Cleo O'Brien-Udry. "The Political Economy of Carbon Offsets Scandals."</li>
 
